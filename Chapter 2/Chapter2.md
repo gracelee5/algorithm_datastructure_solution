@@ -43,15 +43,4 @@ $$
 T(N)=\binom{N}{3}=\frac{N(N-1)(N-2)}{6}=O(N^3)
 $$
 
-## 2.3 다음 프로그램의 복잡도를 구하고 란다우 빅오 표기법으로 표현하라. 이 함수는 양의 정수 N이 소인수인지 판정한다.
 
-```c++
-bool is_prime(int N){
-    if ( N <= 1 ) return false;
-    for ( int p = 2; p *p <= N; ++p){
-        if ( n % p == 0 ) return false;
-    }
-    return true;
-}
-```
----
