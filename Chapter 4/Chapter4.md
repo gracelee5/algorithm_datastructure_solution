@@ -7,7 +7,7 @@
 * $\large T_2=1$
 * $\large T_N=T_{N-1}+T_{N-2}+T_{N-3}\quad(N=3,\ 4,\ \cdots)$
 
-[Link] (ADS4_1.cpp)
+[Link] (https://github.com/gracelee5/algorithm_datastructure_solution/blob/main/Chapter%204/ADS4_1.cpp)
 
 ## 4.2 연습 문제 4.1에서 설계한 재귀 함수에 대해 메모이제이션을 사용해서 효율을 개선하라. 그리고 메모이제이션 실시 후의 복잡도를 평가하라.
 
